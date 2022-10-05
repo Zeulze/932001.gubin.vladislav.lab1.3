@@ -87,7 +87,7 @@ body {
     text-align: justify;
 }
 
-.section-text::selection {
+.section-text::selection, .special-letter::selection {
     background-color: green;
     color: white;
 }
